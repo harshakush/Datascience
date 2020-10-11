@@ -1,2 +1,3 @@
-# mtech-assignments
-mtech assignments
+# Datascience
+- Mtech assignments
+- Research work
